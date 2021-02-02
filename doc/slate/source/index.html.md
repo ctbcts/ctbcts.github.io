@@ -1,5 +1,5 @@
 ---
-title: KLANG SENTRAL API Specification
+title: Terminal System API Specification
 
 language_tabs: # must be one of https://git.io/vQNgJ
   - cURL
@@ -12,9 +12,9 @@ search: true
 
 # Introduction
 
-The technical document specifies the interaction point for Bus Operator System(BOS) and the Centralised Ticketing system Klang Terminal. The project will enable the Klang Sentral CTS to sell the Bus operator inventory via real time API integration.
+The technical document specifies the interaction point for Bus Operator System(BOS) and the Centralised Ticketing system Terminal System. The project will enable the Terminal System to sell the Bus operator inventory via real time API integration.
 
-The Bus Operator System(BOS) integrating with Klang Sentral CTS needs to provide the following RESTFUL API with the mentioned JSON Structure.
+The Bus Operator System(BOS) integrating with Terminal System needs to provide the following RESTFUL API with the mentioned JSON Structure.
 
 # Authentication and Security
 
